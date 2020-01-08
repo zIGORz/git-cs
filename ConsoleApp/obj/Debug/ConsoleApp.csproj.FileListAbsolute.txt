@@ -1,0 +1,6 @@
+C:\Temp\git-cs\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Temp\git-cs\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Temp\git-cs\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Temp\git-cs\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Temp\git-cs\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Temp\git-cs\ConsoleApp\obj\Debug\ConsoleApp.pdb
